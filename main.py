@@ -14,7 +14,6 @@ vars5 = "1. Часто. 2. Редко."
 
 kolobok_points = 0
 
-
 print(question1)
 print(vars1)
 answer1 = input("Введите ответ цифрой: ")
